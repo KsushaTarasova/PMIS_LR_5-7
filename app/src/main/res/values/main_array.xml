@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>И поглотит нас морок</item>
+        <item>Секрет Небес - Реквием</item>
+        <item>Разбитое сердце Астреи</item>
+        <item>Бездушная</item>
+        <item>Эдемов сад</item>
+        <item>Кали: Пламя Сансары</item>
+        <item>W: Ловчая времени</item>
+        <item>Песнь о красном Ниле</item>
+        <item>Секрет Небес 2</item>
+        <item>Кали: Зов Тьмы</item>
+    </string-array>
+
+    <string-array name="i_poglotit_nas_morok">
+        <item>Драган|dragan.jpg|dragan.html</item>
+        <item>Волот|volot.jpg|volot.html</item>
+        <item>Озар|ozar.jpg|ozar.html</item>
+    </string-array>
+
+    <string-array name="secret_nebes_rekviem">
+        <item>Каин|kain.jpg|kain.html</item>
+        <item>Дмитрий|dimka.jpg|dimka.html</item>
+        <item>Грег|greg.jpg|greg.html</item>
+    </string-array>
+
+    <string-array name="razbitoe_serdce_astrei">
+        <item>Микаэль|mikael.jpg|mikael.html</item>
+        <item>Кассиэль|kassiel.jpg|kassiel.html</item>
+        <item>Рафаил|rafail.jpg|rafail.html</item>
+    </string-array>
+
+    <string-array name="bezdushnaya">
+        <item>Уолтер|yolter.jpg|yolter.html</item>
+        <item>Винсент|vincent.jpg|vincent.html</item>
+        <item>Эллиот|elliot.jpg|elliot.html</item>
+    </string-array>
+
+    <string-array name="edemov_sad">
+        <item>Минхек|minhek.jpg|minhek.html</item>
+        <item>Дин|din.jpg|din.html</item>
+        <item>Чжон|chzon.jpg|chzon.html</item>
+    </string-array>
+
+    <string-array name="kali_plamya_sansary">
+        <item>Рам|ram.jpg|ram.html</item>
+        <item>Доран|doran.jpg|doran.html</item>
+        <item>Кристиан|christian.jpg|christian.html</item>
+    </string-array>
+
+    <string-array name="w_lovchaya_vremeny">
+        <item>Оникс|onix.jpg|onix.html</item>
+        <item>Ренато|renato.jpg|renato.html</item>
+        <item>Люсьен|lucen.jpg|lucen.html</item>
+    </string-array>
+
+    <string-array name="pesn_o_krasnom_nile">
+        <item>Амен|amen.jpg|amen.html</item>
+        <item>Ливий|livii.jpg|livii.html</item>
+        <item>Сет|set.jpg|set.html</item>
+    </string-array>
+
+    <string-array name="secret_nebes_2">
+        <item>Мальбонте|malbonteee.jpg|malbonteee.html</item>
+        <item>Голод|golod.jpg|golod.html</item>
+        <item>Астарот|astarot.jpg|astarot.html</item>
+    </string-array>
+
+    <string-array name="kali_zov_tmy">
+        <item>Киллиан|killian.jpg|killian.html</item>
+        <item>Рейтан|reitan.jpg|reitan.html</item>
+        <item>Амрит|amrit.jpg|amrit.html</item>
+    </string-array>
+
+</resources>
